@@ -13,7 +13,7 @@ Prolog 1 <br>
       Cristi                  Elena<br>
 Adriana Marius Ovidiu          Ana<br>
                                 George <br>
-  a. Create a rule that defines grandparent relations.
-  b. Create a sibling rule.
-  c. Create a cousin rule.
-  d. Create aunt and uncle relations.
+  a. Create a rule that defines grandparent relations.<br>
+  b. Create a sibling rule.<br>
+  c. Create a cousin rule.<br>
+  d. Create aunt and uncle relations. <br>
